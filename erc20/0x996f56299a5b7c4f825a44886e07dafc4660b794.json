@@ -1,8 +1,8 @@
 {
   "symbol": "DEX",
-  "address": "0x996f56299a5b7c4f825a44886e07dafc4660b794",
+  "address": "0x7808C487Fe5cF8F0CA6bc8aD4bE0335C5e774fab",
   "overview":{
-        "en": "the platform token of Newdex decentralized Exchange, the total supply is 100 million and is issued on multi chains. It has supported ETH/BSC/EOS chain, and the token deflation rules remain unchanged. The value of Newdex platform token includes: buy-back and burning, staking discounts, candy airdrops, Ad bidding, self-listing, etc.",
+        "en": "The platform token of Newdex decentralized Exchange, the total supply is 100 million and is issued on multi chains. It has supported ETH/BSC/EOS chain, and the token deflation rules remain unchanged. The value of Newdex platform token includes: buy-back and burning, staking discounts, candy airdrops, Ad bidding, self-listing, etc.",
         "zh": "Newdex去中心化交易所的平台生态通证，代币总量1亿，且多链发行，现已支持ETH/BSC/EOS链，代币通缩规则保持不变。Newdex平台生态通证价值包括：回购销毁、抵押优惠、糖果空投、广告竞价、自主上币等。"
   },
   "email": "bd@newdex.io",
